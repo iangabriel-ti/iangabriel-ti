@@ -33,8 +33,8 @@ Também presto suporte técnico informal a amigos e familiares: formatação, in
 
 | Repositório | O que tem |
 |---|---|
-| `base-de-conhecimento` | Tutoriais e soluções de problemas comuns de suporte |
-| `scripts-suporte` | Scripts para automatizar tarefas do dia a dia |
+| [**base-de-conhecimento**](https://github.com/iangabriel-ti/base-de-conhecimento) | 11 artigos de suporte N1: diagnóstico, solução, quando escalar e registro no chamado |
+| [**scripts-suporte**](https://github.com/iangabriel-ti/scripts-suporte) | Scripts PowerShell para coletar informações do PC, liberar espaço e diagnosticar a rede |
 
 ---
 
